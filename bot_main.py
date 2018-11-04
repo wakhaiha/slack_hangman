@@ -21,7 +21,7 @@ BOT_TOKEN = os.environ.get('xoxb-468564165904-471237964051-a1Bofypt864wSD5eNEAZM
 BOT_NAME = 'sweetbot'
 CHANNEL_NAME = "general"
 
-BOT_ID = os.environ.get('BOT_ID')
+BOT_ID = os.environ.get('BDV6ZUBQB')
 AT_BOT = "<@{bot_id}>".format(bot_id=BOT_ID)
 
 EXAMPLE_COMMAND = "?"
