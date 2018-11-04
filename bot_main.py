@@ -17,7 +17,7 @@ from bot_utils import (
 )
 
 
-BOT_TOKEN = os.environ.get('API_TOKEN')
+BOT_TOKEN = os.environ.get('xoxb-468564165904-471237964051-a1Bofypt864wSD5eNEAZM3yX')
 BOT_NAME = 'sweetbot'
 CHANNEL_NAME = "general"
 
